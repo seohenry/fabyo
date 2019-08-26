@@ -1,20 +1,20 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Adonias Pires
+// DescriÃ§Ã£o   : Informa a Idade e o nome do usuÃ¡rio
+// Autor(a)    : FÃ¡byo Sena
 // Data atual  : 26/08/2019
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 idade : inteiro
 nome: caractere
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreva ("informe o nome:")
 leia (nome)
 escreva ("informe a idade:")
 leia (idade)
-escreva ("nome do aluno é Fábyo, ele tem 18")
+escreva ("nome do aluno Ã© FÃ¡byo, ele tem 18")
 
 Fimalgoritmo
